@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.list {
+  padding-left: 20px;
+}
+
+.entity-item {
+  display: flex;
+  align-items: center;
+
+  border: 1px solid black;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 2px 6px;
+  margin-bottom: 4px;
+
+  gap: 6px;
+}
